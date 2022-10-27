@@ -1,0 +1,41 @@
+body {
+    background-color: bisque;
+    margin:0;
+    text-align: center;
+}
+
+
+
+    
+h1 {
+    margin-top: 0px;
+   
+}
+
+.top{
+    background-color: #90cece;
+    
+    position: relative;
+    padding-top: 50px;
+   
+}
+
+.mid{
+  
+}
+
+.bottom{
+    
+}
+.topc{
+    display: inline-block;
+    left:50px;
+
+}
+.bottomc{
+  display: inline-block;
+  position: absolute;
+  top:207.4px;
+}
+
+
